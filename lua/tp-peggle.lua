@@ -70,6 +70,10 @@ workspace "tp-peggle"
 			"MinHook",
 		}
 
+		syslibdirs {
+			"../deps/SDL2-2.0.22/lib/x86/"
+		}
+
 		links {
 			"SDL2",
 			"MinHook",
