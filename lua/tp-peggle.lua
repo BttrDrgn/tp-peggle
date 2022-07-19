@@ -82,7 +82,7 @@ workspace "tp-peggle"
 		includedirs {
 			"../src/",
 			"../deps/minhook/include/",
-			"../deps/SDL/include/",
+			"../deps/SDL2-2.0.22/include/",
 		}
 
 		files {
